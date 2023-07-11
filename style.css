@@ -1,0 +1,379 @@
+*{
+    margin: 0px;
+    font-family: 'Lato';
+
+
+}
+/* header part-1st part */
+.flower-first-start{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.10);
+    width: 80px 50px;
+    height: 87vh;
+}
+.flower-first-theories{
+    padding: 60px 10px 10px 110px;
+    
+
+}
+.first-title{
+    color: #272727;
+    font-size: 55px;
+    font-weight: 800;
+}
+.first-discription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.flower-pic1{
+    margin-right: 90px;
+}
+
+.flower-btn{
+    border-radius: 5px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    border: 0;
+    padding: 8px 11px;
+}
+.title{
+    color: #272727;
+    text-align: center;;
+    font-size: 32px;
+    font-weight: 800;
+}
+.title-discrip{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 14px;
+font-weight: 400;
+margin-bottom: 30px;
+}
+
+/* feature flower part--2part */
+.about-feature-flower{
+    text-align: center;
+    margin: 100px 100px 30px 100px;
+}
+.feature-flower{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.size-reduction-of-pic{
+    width: 230px;
+    height: 280px;
+
+}
+.first-feature {
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 60px 40px 0px 40px;
+}
+.second-feature{
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 60px 40px 5px 40px;
+}
+.third-feature{
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 60px 40px 0px 40px;
+}
+.title-discrip{
+    padding-top: 8px;
+}
+ /* for underline words */
+.pinkish-tree{
+    display: flex;
+    
+    
+}
+.pinks{
+    color: #272727;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    padding-top: 10pxS;
+    margin-left: 200px;
+    
+   
+}
+.pinkss{
+    color: #272727;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    padding-top: 10pxS;
+    margin-left:150px;
+}
+.pinksss{
+    color: #272727;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    padding-top: 10pxS;
+    margin-left: 210px ;
+}
+.info-flowers{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 50px 38px;
+    padding: 40px 20px 35px 20px;
+    
+}
+.icons{
+    width: 50px;
+    height: 50px;
+}
+/* for sales part */
+.sale-cointainer{
+    display: flex;
+    justify-content:center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 40px 30px;
+    height: 60vh;
+    margin-bottom: 50px;
+}
+.sales-flower{
+    width: 150px;
+    height: 250px;
+    padding-top: 40px;
+
+
+}
+.sales{
+    padding: 90px 90px 90px 40px;
+    text-align: center;
+}
+.sales-strategy{
+    color: #272727;
+   font-size: 30px;
+   font-weight: 800;
+
+
+}
+.sales-discription{
+ color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 12px;
+font-weight: 400;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.pink-color{
+    color: #E55473;
+}
+.adding-photo{
+    display: flex;
+   justify-content: center;
+    gap:10px;
+}
+.photos{
+    width: 245px;
+    height: 300px;
+}
+.photo-coin{
+    text-align: center;
+   margin: 50px 35px;
+}
+.insta{
+color: #272727;
+text-align: center;
+font-size: 30px;
+font-weight: 800;
+
+      
+}
+.insta-story{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 12px;
+font-weight: 400;
+margin-bottom: 20px;
+margin-top: 10px;
+}
+ .background{
+
+    background-image: url("./Flower\ Asset/Rectangle 9.png");
+    background-size: 1020px;
+    background-repeat: no-repeat;
+    width:1010px;
+    height: 450px;
+    justify-content: center;
+    margin-left: 119px;
+   
+
+}
+.CLASS{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 100px;
+    
+
+   
+}
+.NO-CLASS{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 10px;
+   
+}
+.content input[type="email"]{
+    border-radius: 8px;
+    background: #FFF;
+    width: 500px;
+    height: 34px;
+    margin-left: 210px;
+    margin-top: 20px;
+    border: 0;
+} 
+.best-cointainer{
+    display: flex;
+    justify-content:center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 40px 30px;
+    height: 60vh;
+    margin-bottom: 50px;
+}
+.best-sales-flower{
+    width: 150px;
+    height: 250px;
+    padding-top: 40px;
+
+
+}
+.best-sales{
+    padding: 90px 90px 90px 40px;
+    text-align: center;
+}
+.best-sales-title{
+    color: #272727;
+   font-size: 30px;
+   font-weight: 800;
+
+
+}
+.best-sales-discription{
+ color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 12px;
+font-weight: 400;
+padding-top: 10px ;
+padding-bottom: 10px;
+}
+
+
+
+.yellow,.red{
+    display: flex;
+   justify-content:space-evenly;
+    
+    
+}
+.pic-tuli{
+    width: 100px;
+    height: 100px;
+    margin: 10px 20px;
+    
+   
+}
+.pic-of-flo{
+    border-radius: 100px 100px 100px 100px;
+    background: rgba(136, 177, 10, 0.15);
+    padding: 30px 40px;
+
+   
+}
+.pic-of-floo{
+    border-radius: 100px 100px 100px 100px;
+    background: rgba(226, 100, 10, 0.15);
+    padding: 30px 40px;
+   
+}
+.pic-of-flooo{
+    border-radius: 100px 100px 100px 100px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 30px 40px;
+
+}
+.pic-of-floooo{
+    border-radius: 100px 100px 100px 100px;
+    background: rgba(11, 213, 216, 0.15);
+    padding: 30px 40px;
+}
+.time,.timee{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.antim{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+    margin: 10px 10px 60px 70px;
+    padding-bottom: 40px;
+    padding-left: 34px;
+  
+    
+}
+.kumro-ful{
+    margin: 80px 80px;
+}
+footer{
+    background-color:#111010;
+    color: white;
+    text-align: center;
+    padding: 50px 0px;
+}
+.toki{
+    color: #E55473;
+}
+.hii{
+color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 12px;
+font-weight: 400;
+}
+.pera{
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 14px;
+font-weight: 400;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.hi{
+font-family: Lato;
+font-size: 38px;
+font-weight: 800;
+
+}
+
+
+
+
+
+
+
+
